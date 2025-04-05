@@ -6,10 +6,10 @@
   <PropertyGroup>
     <PluginId>OmniSounds</PluginId>
     <PluginName>OmniSounds</PluginName>
-    <Authors></Authors>
+    <Authors>lunakittyyy</Authors>
     <Version>0.0.1</Version>
-    <GameVersion>1.40.0</GameVersion>
-    <Description></Description>
+    <GameVersion>1.39.1</GameVersion>
+    <Description>Replaces sounds with multiple others</Description>
     <!--<PluginIcon></PluginIcon>-->
     <!--<ProjectSource></ProjectSource>-->
     <!--<ProjectHome></ProjectHome>-->
