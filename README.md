@@ -7,6 +7,7 @@ Do note that OmniSounds focuses exclusively on the note cut sounds, it currently
 OmniSounds is loosely based upon SoundReplacer's patches, but it is largely written from scratch.
 
 ### Usage
+OmniSounds is only tested on **Beat Saber 1.39.1**. It will likely work on other versions but I can't promise anything.
 When starting the game with OmniSounds for the first time, a ``OmniSounds`` folder will appear, with two subfolders ``BadSliceSounds`` and ``SliceSounds``.
 
 Put as many files as you want in either of these folders in the following formats: ``".mp3", ".ogg", ".wav", ".flac", ".aiff", ".aif", ".mod", ".it", ".s3m", ".xm"``
