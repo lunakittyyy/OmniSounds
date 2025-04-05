@@ -1,5 +1,6 @@
 ## OmniSounds
 I wanted to have different variations of custom note cut sounds for myself, just to notice that SoundReplacer didn't support this at all despite the fact the game itself does. So I made OmniSounds!
+
 While SoundReplacer only supports using one sound for an entire category (i.e. custom cut sounds only ever have one noise, custom miss sounds only ever have one noise, so on and so forth), OmniSounds supports using *as many sounds as you like* for your note cut or miss sounds!
 
 Do note that OmniSounds focuses exclusively on the note cut sounds, it currently does not implement custom menu music, button clicks, or song completion jingles.
